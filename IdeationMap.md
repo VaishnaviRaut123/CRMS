@@ -1,4 +1,4 @@
-#  **Mini project for HCL Internship**
+#  **project **
 
 ## Title: Crime record management system [CRMS]
 
