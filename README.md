@@ -52,4 +52,4 @@
 
 ## View the Project Ideation Map below 👇
 
-#### <h6> Click Here:- https://github.com/VaishnaviRaut123/HCL-CRMS/blob/main/IdeationMap.md<h6>
+#### <h6> Click Here:- https://github.com/VaishnaviRaut123/CRMS/blob/main/IdeationMap.md<h6>
