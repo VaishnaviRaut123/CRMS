@@ -44,6 +44,3 @@
  It can be used to record paper less criminal’s record and investigation. This project is mainly useful for adding and getting criminal’s record with the all the important documents related to the specific criminal easily and faster with crime ID or with criminal’s name.  The authority can preserve records of the criminals and search for any criminal using the system. This is an online web application with a database system in which police will keep the record of criminals who have been arrested or has got complaint against them.   Used HTML, JavaScript, CSS, PHP, MongoDB and Bootstrap to develop this system. The project's interface is very user-friendly and helpful for authority.
 
 #
-
-### Project execution work flow diagram
-<img src="./DOCUMENTATION/assets/CRMS-FlowDiagramFinal.jpg" alt="Work-flow-diagram" style="width:100%"/>
