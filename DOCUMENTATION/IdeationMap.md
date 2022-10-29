@@ -17,16 +17,7 @@
 
 #
 
-### Technology Used:
- * HTML
- * CSS
- * bootstrap
- * Vanilla JavaScript
- * NodeJS
- * ExpressJS
- * ReactJS
- * MongoDB/Mongoose(DATABASE)
- * PHP
+
 
 #
 
