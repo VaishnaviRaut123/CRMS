@@ -1,4 +1,4 @@
-#  ** project **
+#  ** Mini project **
 
 ## Title: Crime record management system [CRMS]
 
@@ -14,21 +14,7 @@
  4. User will be able to get the crime count in specific time and field.
  5. No one can access or edit confidential record of criminals without successful login.
  6. Input data will be validated using JavaScript and PHP.
-
-#
-
-
-
-#
-
-### Tools Used:
- * Atom Editor
- * VS Code
- * Web Browser
- * Git and GitHub
- * Star UML
- * Hyper
-
+ 7. 
 #
 
 ### Scope:
@@ -36,5 +22,3 @@
 
 #
 
-### Project execution work flow diagram
-<img src="./assets/CRMS-FlowDiagramjpeg2.jpg" alt="Work-flow-diagram" style="width:100%"/>
